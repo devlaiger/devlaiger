@@ -139,5 +139,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="right">
-    <img src="https://imgur.com/a/xhrvZIG" width="150" alt="decoration" />
+    <img src="https://i.imgur.com/LC2D428.png" width="150" alt="decoration" />
 </p>
