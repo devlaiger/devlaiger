@@ -1,6 +1,6 @@
 <p align="center">
     <img width="98%"
-        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=~ pollya ~&reversal=false&section=header&animation=twinkling" />
+        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=~pollya~&reversal=false&section=header&animation=twinkling" />
 </p>
 
 <br />
@@ -139,5 +139,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="right">
-    <img src="https://banner2.cleanpng.com/cb2/xba/szw/a281mn0ss.webp" width="150" alt="decoration" />
+    <img src="https://imgur.com/a/xhrvZIG" width="150" alt="decoration" />
 </p>
